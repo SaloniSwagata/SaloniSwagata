@@ -1,4 +1,4 @@
-### Hello Everyone, I am Saloni Swagata 👋
+# Hello Everyone, I am Saloni Swagata 👋
 
 - Currently persuing my Btech in CSE branch from Haldia Institute of Technology, Haldia (West Bengal).
 - 🔭 I’m currently working on Python Development and Graphic Designing
