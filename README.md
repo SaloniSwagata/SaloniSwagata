@@ -1,11 +1,12 @@
 # Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saloni
 
-### I am Saloni Swagata, a budding Web & App developer with a keen interest towards Machine Learning. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester.
+### I am Saloni Swagata, a budding Web & App developer with a keen interest towards Machine Learning. I like making cool stuffs with Python & Flutter. I am currently pursuing my Bachelor's in Computer Science and I am in my 6th semester.
 ---
 ## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/saloniswagata/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swagata_saloni/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:saloniswagata@gmail.com)
+![Visits Badge](https://badges.pufler.dev/visits/SaloniSwagata/SaloniSwagata?style=for-the-badge)
 
 ---
 
