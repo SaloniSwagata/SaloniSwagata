@@ -1,4 +1,4 @@
-# Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saloni
+# Hello everyone,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saloni
 
 ### I am Saloni Swagata, a budding Web & App developer with a keen interest towards Machine Learning. I like making cool stuffs with Python. I am currently pursuing my Bachelor's in Computer Science and I am in my 6th semester.
 ---
