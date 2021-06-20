@@ -1,4 +1,4 @@
-# Hello everyone,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saloni
+# Hey there,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I am Saloni
 
 ### I am Saloni Swagata, a budding Web & App developer with a keen interest towards Machine Learning. I like making cool stuffs with Python. I am currently pursuing my Bachelor's in Computer Science and I am in my 6th semester.
 ---
@@ -40,6 +40,5 @@
 </p>
 
 ### <h2 align=center>My Current Statistics</h2> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniSwagata"/>
-<img src="https://github-readme-stats.vercel.app/api?username=SaloniSwagata&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<img align=center src="https://github-readme-streak-stats.herokuapp.com/?user=SaloniSwagata"/>
+<img align=center src="https://github-readme-stats.vercel.app/api?username=SaloniSwagata&&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
