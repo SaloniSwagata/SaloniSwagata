@@ -42,7 +42,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-## <h2 align=center> Trophy Cabinet </h2>
+## 🏆 Trophy Cabinet
 
 <p align=center>
 <img align=center src="https://github-profile-trophy.vercel.app/?username=SaloniSwagata&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
