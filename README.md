@@ -17,7 +17,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/saloniswagata/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/swagata_saloni/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:saloniswagata@gmail.com)
-[<img src="https://komarev.com/ghpvc/?username=SaloniSwagata&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SaloniSwagata" />]
+<img src="https://komarev.com/ghpvc/?username=SaloniSwagata&label=Views&color=blue&style=plastic&style=for-the-badge" alt="SaloniSwagata" />
 
 ---
 
